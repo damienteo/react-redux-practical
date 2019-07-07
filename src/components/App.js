@@ -5,7 +5,7 @@ import SongList from "./songList";
 const App = () => {
   return (
     <div>
-      App <SongList />
+      <SongList />
     </div>
   );
 };
